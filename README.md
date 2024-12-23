@@ -2,7 +2,7 @@ Hello My Name is Tavarries Griifn im a web developer looking to learn more compu
 
 I’m currently interested in getting a junior postion or internship.
 
-I’m currently learning javascript, react, .net, and refreshing up on my html and css.
+I’m currently learning javascript, react, .net.
 
 Also working on learning git.
 You can reach me at tavarriesg17@gmail.com
